@@ -1,4 +1,4 @@
-__Cursando Análise e Desenvolvimento de Sistemas desde 2020__
+__Curso Análise e Desenvolvimento de Sistemas__
 
 - Trabalho (MAPA): 1º programa
       entendendo conceitos básicos de linguagem C;
